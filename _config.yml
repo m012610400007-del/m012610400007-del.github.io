@@ -16,10 +16,10 @@ timezone:
 
 title: Edgar Silverio # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: CURSO de CYBERSEGURIDAD   # it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+description: Curso de CYBERSEGURIDAD UNTELS >- # used by seo meta and the atom feed
+  
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'm012610400007-del.github.io', note that it does not end with a '/'.
@@ -99,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://tncdigital.net/wp-content/uploads/2023/04/Cyberseguridad-02--1024x786.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
